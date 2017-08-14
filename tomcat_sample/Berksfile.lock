@@ -1,0 +1,7 @@
+DEPENDENCIES
+  tomcat_sample
+    path: .
+    metadata: true
+
+GRAPH
+  tomcat_sample (0.1.0)
