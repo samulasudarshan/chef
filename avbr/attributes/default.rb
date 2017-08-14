@@ -1,0 +1,1 @@
+default['avbr']['pack_name'] = 'nginx'

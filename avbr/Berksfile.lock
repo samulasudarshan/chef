@@ -1,0 +1,7 @@
+DEPENDENCIES
+  avbr
+    path: .
+    metadata: true
+
+GRAPH
+  avbr (0.1.0)
